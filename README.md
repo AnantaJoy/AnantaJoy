@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Deep Learning Based Medical Imaging](https://github.com/AnantaJoy/medical-image--and-deep-learning)
 
+- 👯 I’m looking to collaborate on [পাইথন দিয়ে সাইন্টিফিক এবং নিউমেরিক কম্পিউটিং](https://s1810174145.gitbook.io/python-for-beginners/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anantajoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anantajoy" height="30" width="40" /></a>
