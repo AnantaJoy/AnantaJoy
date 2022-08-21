@@ -16,5 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantajoy&show_icons=true&locale=en&layout=compact" alt="anantajoy"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantajoy&show_icons=true&locale=en" alt="anantajoy" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anantajoy&show_icons=true&locale=en" alt="anantajoy" /></p>
 <h3 align="left"> Build this README using: <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">link</a></h3> 
