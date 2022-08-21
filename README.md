@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantajoy&label=Profile%20views&color=0e75b6&style=flat" alt="anantajoy" /> </p>
- <a href="https://leetcode.com/ananta_joy/">
- <img src="https://cp-logo.vercel.app/leetcode/ananta_joy" alt="Leet code rating" />
- </a>
- <a href="https://codeforces.com/profile/axis_21">
-    <img src="https://raw.githubusercontent.com/axis_21/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
+ 
 - 🔭 I’m currently working on [Deep Learning Based Medical Imaging](https://github.com/AnantaJoy/medical-image--and-deep-learning)
 
 - 🌱 I’m currently learning **Abstract Algebra and Linear Algebra**
