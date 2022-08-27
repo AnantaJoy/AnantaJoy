@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantajoy&label=Profile%20views&color=0e75b6&style=flat" alt="anantajoy" /> </p>
  
-- 🔭 I’m currently working on [Deep Learning Based Medical Imaging](https://github.com/AnantaJoy/medical-image--and-deep-learning)
+- 🔭 I’m currently working on 1. [Deep Learning Based Medical Imaging](https://github.com/AnantaJoy/medical-image--and-deep-learning) 2. [fMRI Data Analysis](https://github.com/AnantaJoy/fMRI-data-analysis)                        
 
 - 🌱 I’m currently learning **Abstract Algebra and Linear Algebra**
 
