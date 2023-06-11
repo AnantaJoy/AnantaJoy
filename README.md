@@ -3,6 +3,7 @@
 <span><a href="https://wakatime.com/@9c7deb68-be2c-49aa-a705-5faacfeb4976"><img src="https://wakatime.com/badge/user/9c7deb68-be2c-49aa-a705-5faacfeb4976.svg" alt="Total time coded since May 7 2023" /></a></span>
 <span><a href="https://leetcode.com/ananta_joy/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&amp;labelColor=black&amp;color=%23ffa116&amp;label=Solved&amp;query=solvedOverTotal&amp;url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fananta_joy&amp;logo=leetcode&amp;logoColor=yellow" alt="LeetCode user ananta_joy"></a></span>
 <span><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=ananta.joy" alt="Codeforces Badge"></span>
+<span><img src="https://cp-logo.vercel.app/codechef/ananta_joy?logo=true" alt="Badge"></span>
 
  
 - 🔭 I’m currently working on [fMRI Data Analysis](https://github.com/AnantaJoy/fMRI-data-analysis)                        
