@@ -37,12 +37,11 @@
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantajoy&show_icons=true&locale=en&layout=compact" alt="anantajoy" /></span>
 
 <span>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anantajoy&show_icons=true&locale=en" alt="anantajoy" /></span>
-<span><img  src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?anantaasim" alt=""></span>
-<span><a href="https://auth.geeksforgeeks.org/user/anantajoy007"><img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anantajoy007" alt="AnantaJoy&#39;s geeksForgeeks stats"></a></span>
 
-<!--<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantajoy&" alt="anantajoy" /></span>-->
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantajoy&" alt="anantajoy" /></span>
 
-
+<!--<span><img  src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?anantaasim" alt=""></span>-->
+<!--<span><a href="https://auth.geeksforgeeks.org/user/anantajoy007"><img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anantajoy007" alt="AnantaJoy&#39;s geeksForgeeks stats"></a></span>-->
 
 <!-- <p><img src="https://codeforces-readme-stats.vercel.app/api/card?username=ananta.joy" alt="Codeforces Stats"></p> -->
 
