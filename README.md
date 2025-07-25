@@ -1,46 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ananta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anantajoy&label=Profile%20views&color=0e75b6&style=flat" alt="anantajoy" /> </p>
-<span><a href="https://wakatime.com/@9c7deb68-be2c-49aa-a705-5faacfeb4976"><img src="https://wakatime.com/badge/user/9c7deb68-be2c-49aa-a705-5faacfeb4976.svg" alt="Total time coded since May 7 2023" /></a></span>
-<span><a href="https://leetcode.com/ananta_joy/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&amp;labelColor=black&amp;color=%23ffa116&amp;label=Solved&amp;query=solvedOverTotal&amp;url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fananta_joy&amp;logo=leetcode&amp;logoColor=yellow" alt="LeetCode user ananta_joy"></a></span>
- 
-- 🔭 I’m currently working on [fMRI Data Analysis](https://github.com/AnantaJoy/fMRI-data-analysis)                        
+[![Profile views](https://komarev.com/ghpvc/?username=anantajoy&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/anantajoy)
+[![Wakatime](https://wakatime.com/badge/user/9c7deb68-be2c-49aa-a705-5faacfeb4976.svg)](https://wakatime.com/@9c7deb68-be2c-49aa-a705-5faacfeb4976)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fananta_joy&logo=leetcode&logoColor=yellow)](https://leetcode.com/ananta_joy/)
 
-- 🌱 I’m currently learning [Machine Learning Scientist with Python](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)
 
-- 🚀 I’m currently preparing for [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/collections/moqrtod2e2z7?WT.mc_id=cloudskillschallenge_3ef5d197-cdef-49bc-a8bc-954bcd9e88cc&sharingId=8A6DD6F4951CF9FA)
+## Background
 
-- 👯 I’m looking to collaborate on [Biomedical Data Analysis: fMRI](https://ananta.gitbook.io/fmri/)
+Masters in data science and Analytics at East West University | B.Sc. in Electrical Engineering from University of Rajshahi
 
-- 💬 Ask me about **Python, Machine Learning, fMRI Image Processing**
+Currently working on actuarial and finance teams focusing on financial reserve, solvency, product valuation, new insurance product UAT, and core system upgrades at MetLife Bangladesh.
 
-- 📫 How to reach me **anantajoy007@gmail.com**
+## Current Focus
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Preparing for SOA examinations toward FSA designation, with current focus on Statistics for Risk Modeling (SRM).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anantajoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anantajoy" height="30" width="40" /></a>
-<a href="https://kaggle.com/anantaasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anantaasim" height="30" width="40" /></a>
-<a href="https://medium.com/@anantajoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anantajoy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ananta_joy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ananta_joy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ananta_joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ananta_joy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/axis_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="axis_21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ananta_joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananta_joy" height="30" width="40" /></a>
-</p>
+## Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Daily work with Python, R, and Excel for actuarial modeling, data analysis, and reporting.
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantajoy&show_icons=true&locale=en&layout=compact" alt="anantajoy" /></span>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anantajoy&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=ffffff)
 
-<span>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anantajoy&show_icons=true&locale=en" alt="anantajoy" /></span>
+## Contact
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantajoy&" alt="anantajoy" /></span>
-
-<!--<span><img  src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?anantaasim" alt=""></span>-->
-<!--<span><a href="https://auth.geeksforgeeks.org/user/anantajoy007"><img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anantajoy007" alt="AnantaJoy&#39;s geeksForgeeks stats"></a></span>-->
-
-<!-- <p><img src="https://codeforces-readme-stats.vercel.app/api/card?username=ananta.joy" alt="Codeforces Stats"></p> -->
-
+[anantajoy.github.io](https://anantajoy.github.io/)  
+**anantajoy007@gmail.com**
