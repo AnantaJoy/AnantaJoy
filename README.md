@@ -5,9 +5,9 @@
 
 ## Background
 
-Masters in data science and Analytics at East West University | B.Sc. in Electrical Engineering from University of Rajshahi
+Master's in Data Science and Analytics at East West University | B.Sc. in Electrical Engineering from University of Rajshahi
 
-Currently working on actuarial and finance teams focusing on financial reserve, solvency, product valuation, new insurance product UAT, and core system upgrades at MetLife Bangladesh.
+Working with actuarial and finance teams at MetLife Bangladesh on financial reserves, solvency margins, product valuation, new insurance product UAT, and core system upgrades.
 
 ## Current Focus
 
